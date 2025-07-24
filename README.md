@@ -1,3 +1,4 @@
+
 Personal Portfolio Website
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript, featuring:
 ✔ Dark Mode
@@ -52,3 +53,4 @@ python -m http.server 8000
 Then visit: http://localhost:8000
 
 
+>>>>>>> 17db571 (Initial commit - Portfolio website)
